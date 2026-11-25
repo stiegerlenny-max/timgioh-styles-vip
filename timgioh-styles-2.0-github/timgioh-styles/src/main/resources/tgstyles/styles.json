@@ -1,0 +1,278 @@
+{
+ "lines": [
+  {
+   "id": "timgioh",
+   "name": "timgioh weiß",
+   "styles": [
+    {
+     "id": "weiss",
+     "name": "Weiß",
+     "rgb": 16777215,
+     "base": true
+    },
+    {
+     "id": "rot",
+     "name": "Rot",
+     "rgb": 16721960
+    },
+    {
+     "id": "gruen",
+     "name": "Grün",
+     "rgb": 3333180
+    },
+    {
+     "id": "blau",
+     "name": "Blau",
+     "rgb": 2644735
+    },
+    {
+     "id": "jade",
+     "name": "Jade",
+     "rgb": 46190
+    },
+    {
+     "id": "hellblau",
+     "name": "Hellblau",
+     "rgb": 8244735
+    },
+    {
+     "id": "tuerkis",
+     "name": "Türkis",
+     "rgb": 57037
+    },
+    {
+     "id": "gold",
+     "name": "Gold",
+     "rgb": 16761630
+    },
+    {
+     "id": "orange",
+     "name": "Orange",
+     "rgb": 16743695
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "rgb": 16729760
+    },
+    {
+     "id": "rosa",
+     "name": "Rosa",
+     "rgb": 16755405
+    },
+    {
+     "id": "magenta",
+     "name": "Magenta",
+     "rgb": 15073480
+    },
+    {
+     "id": "cyan",
+     "name": "Cyan",
+     "rgb": 59135
+    },
+    {
+     "id": "mint",
+     "name": "Mint",
+     "rgb": 9895880
+    },
+    {
+     "id": "lime",
+     "name": "Lime",
+     "rgb": 11206400
+    },
+    {
+     "id": "dunkelblau",
+     "name": "Dunkelblau",
+     "rgb": 663190
+    },
+    {
+     "id": "eisblau",
+     "name": "Eisblau",
+     "rgb": 12512255
+    },
+    {
+     "id": "braun",
+     "name": "Braun",
+     "rgb": 9196840
+    },
+    {
+     "id": "bordeaux",
+     "name": "Bordeaux",
+     "rgb": 8522280
+    },
+    {
+     "id": "grau",
+     "name": "Grau",
+     "rgb": 9868950
+    },
+    {
+     "id": "silber",
+     "name": "Silber",
+     "rgb": 13488860
+    },
+    {
+     "id": "gelb",
+     "name": "Gelb",
+     "rgb": 16773160
+    },
+    {
+     "id": "lila",
+     "name": "Lila",
+     "rgb": 11163135
+    },
+    {
+     "id": "schwarz",
+     "name": "Schwarz",
+     "rgb": 5592405
+    },
+    {
+     "id": "leichtschwarz",
+     "name": "Leichtes Schwarz",
+     "rgb": 8947848
+    },
+    {
+     "id": "rainbow",
+     "name": "Rainbow",
+     "rgb": 16733695
+    }
+   ]
+  },
+  {
+   "id": "warden",
+   "name": "White Warden",
+   "styles": [
+    {
+     "id": "weiss",
+     "name": "Weiß",
+     "rgb": 16777215,
+     "base": true
+    },
+    {
+     "id": "rot",
+     "name": "Rot",
+     "rgb": 16721960
+    },
+    {
+     "id": "gruen",
+     "name": "Grün",
+     "rgb": 3333180
+    },
+    {
+     "id": "blau",
+     "name": "Blau",
+     "rgb": 2644735
+    },
+    {
+     "id": "jade",
+     "name": "Jade",
+     "rgb": 46190
+    },
+    {
+     "id": "hellblau",
+     "name": "Hellblau",
+     "rgb": 8244735
+    },
+    {
+     "id": "tuerkis",
+     "name": "Türkis",
+     "rgb": 57037
+    },
+    {
+     "id": "gold",
+     "name": "Gold",
+     "rgb": 16761630
+    },
+    {
+     "id": "orange",
+     "name": "Orange",
+     "rgb": 16743695
+    },
+    {
+     "id": "pink",
+     "name": "Pink",
+     "rgb": 16729760
+    },
+    {
+     "id": "rosa",
+     "name": "Rosa",
+     "rgb": 16755405
+    },
+    {
+     "id": "magenta",
+     "name": "Magenta",
+     "rgb": 15073480
+    },
+    {
+     "id": "cyan",
+     "name": "Cyan",
+     "rgb": 59135
+    },
+    {
+     "id": "mint",
+     "name": "Mint",
+     "rgb": 9895880
+    },
+    {
+     "id": "lime",
+     "name": "Lime",
+     "rgb": 11206400
+    },
+    {
+     "id": "dunkelblau",
+     "name": "Dunkelblau",
+     "rgb": 663190
+    },
+    {
+     "id": "eisblau",
+     "name": "Eisblau",
+     "rgb": 12512255
+    },
+    {
+     "id": "braun",
+     "name": "Braun",
+     "rgb": 9196840
+    },
+    {
+     "id": "bordeaux",
+     "name": "Bordeaux",
+     "rgb": 8522280
+    },
+    {
+     "id": "grau",
+     "name": "Grau",
+     "rgb": 9868950
+    },
+    {
+     "id": "silber",
+     "name": "Silber",
+     "rgb": 13488860
+    },
+    {
+     "id": "gelb",
+     "name": "Gelb",
+     "rgb": 16773160
+    },
+    {
+     "id": "lila",
+     "name": "Lila",
+     "rgb": 11163135
+    },
+    {
+     "id": "schwarz",
+     "name": "Schwarz",
+     "rgb": 5592405
+    },
+    {
+     "id": "leichtschwarz",
+     "name": "Leichtes Schwarz",
+     "rgb": 8947848
+    },
+    {
+     "id": "rainbow",
+     "name": "Rainbow",
+     "rgb": 16733695
+    }
+   ]
+  }
+ ]
+}

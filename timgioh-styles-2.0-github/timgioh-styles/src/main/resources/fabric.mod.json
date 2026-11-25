@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "timgioh_styles",
+  "version": "${version}",
+  "name": "timgioh styles",
+  "description": "Pro Eintrag (Obsidian, Crystals, Schwerter, Rüstung ...) einen eigenen Look wählen: timgioh, White Warden oder 5 weitere Farbstile.",
+  "authors": ["timgioh"],
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["de.timgioh.styles.TimgiohStylesMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
